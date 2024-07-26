@@ -7,6 +7,7 @@
     <title>Apotek</title>
 </head>
 <body>
+    
     <h2>Apotek</h2>
 
     <form action="obat.php" method="get"><br>
@@ -18,5 +19,6 @@
         <input type="text" name="hargaObat"><br><br>
         <button type="submit">Simpan</button>
     </form>
+    
 </body>
 </html>
