@@ -12,11 +12,11 @@
         <form action="proses.php" method="get"><br>
             <label for="">Nama Martabak</label><br>
             <input type="text" name="namaMartabak"><br>
-            <label for="">Varian Martabak</label><br>
+            <label for="">Varian</label><br>
             <input type="text" name="varianMartabak"><br>
-            <label for="">Porsi Martabak</label><br>
+            <label for="">Porsi</label><br>
             <input type="text" name="porsiMartabak"><br>
-            <label for="">Harga Martabak</label><br>
+            <label for="">Harga</label><br>
             <input type="text" name="hargaMartabak"><br><br>
             <button type="submit">Pesan</button>
         </form>
